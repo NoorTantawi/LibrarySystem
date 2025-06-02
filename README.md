@@ -97,6 +97,14 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
+## 🙋‍♂️ Author
+
+**Noor-Aldeen Tayseer Tantawi**  
+[LinkedIn](https://www.linkedin.com/in/nooraldeen-tantawi-3bb899237/)  
+[GitHub](https://github.com/NoorTantawi)
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
