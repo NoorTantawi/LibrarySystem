@@ -1,0 +1,6 @@
+Admin,Admin,Admin,Admin,1
+Librarian,Omar,Omar1,Omar1111,2
+Patron,User,User1,User1111,3,0776263295
+Patron,User,User2,User2222,4,0790050423
+Patron,User,User3,User3333,5,0790050423
+Patron,lamar,lamar,lamar111,6,0790050423

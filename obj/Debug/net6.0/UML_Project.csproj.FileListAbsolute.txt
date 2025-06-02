@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\bin\Debug\net6.0\UML_Project.exe
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\bin\Debug\net6.0\UML_Project.deps.json
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\bin\Debug\net6.0\UML_Project.runtimeconfig.json
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\bin\Debug\net6.0\UML_Project.dll
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\bin\Debug\net6.0\UML_Project.pdb
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\obj\Debug\net6.0\UML_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\obj\Debug\net6.0\UML_Project.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\obj\Debug\net6.0\UML_Project.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\obj\Debug\net6.0\UML_Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\obj\Debug\net6.0\UML_Project.dll
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\obj\Debug\net6.0\refint\UML_Project.dll
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\obj\Debug\net6.0\UML_Project.pdb
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\obj\Debug\net6.0\UML_Project.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\UML_Project\UML_Project\obj\Debug\net6.0\ref\UML_Project.dll
